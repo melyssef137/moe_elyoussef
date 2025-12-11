@@ -1,0 +1,8 @@
+{
+  "name": "cis285-final-dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "vscode",
+  "features": {}
+}
